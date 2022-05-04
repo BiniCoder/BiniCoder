@@ -1,6 +1,6 @@
-### Hey, Nice to meet you👋
-### Welcome to my page!
-### I'm Bini, Front-end developer form Korea in JeJu
+### Welcome to my page! 👋
+### I'm Bini, 🌱 I’m currently learning Front-end
+### 🤔 I’m looking for help with JavaScript
 
 <!--
 **BiniCoder/BiniCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
